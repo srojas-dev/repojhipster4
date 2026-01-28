@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = erter.ertert.er.\
+    config.CassandraTestContainersSpringContextCustomizerFactory
