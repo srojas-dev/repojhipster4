@@ -1,0 +1,30 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authManagement": false,
+    "authType": "oauth2",
+    "authenticationType": "oauth2",
+    "baseName": "feer",
+    "clientFramework": "angular",
+    "creationTimestamp": 1769604776674,
+    "dataBaseName": "feer",
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "frontFramework": "angular",
+    "internalization": false,
+    "javaPackageName": "erter.ertert.er",
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "Yzk2MmEwOTBjNmExZjU0MmFmOTgwYzMzYzAzMGM4OWQxODVlMGNmYjJiYTcyMDY2YWU5NzAyMmY0MzYxZWVlMjcyZjdmNzU5OGVjYTk3NmFlNDlmYTFjMmU4MzJmZjFlMDczZTZhNzIyZWFmYWNlZDA5MjQ5MGM5YzVlNWZmODI=",
+    "languages": [
+      "es"
+    ],
+    "nativeLanguage": "es",
+    "packageName": "erter.ertert.er",
+    "prodDatabaseType": "cassandra",
+    "skipUserManagement": true
+  }
+}
